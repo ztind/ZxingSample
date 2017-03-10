@@ -1,2 +1,2 @@
 #Sample
-<img src="screenshort/aa.gif">
+<img src="screenshort/demo.gif">
