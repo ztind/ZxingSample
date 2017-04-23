@@ -2,9 +2,9 @@
 <img src="screenshort/demo.gif">
 
 # 使用
--将library作为一个Module导入AS工程,build.gradle文件里添加依赖 compile project(':library') 即可
--sample为一个demo
-
+- 将library作为一个Module导入AS工程,build.gradle文件里添加依赖 compile project(':library') 即可
+- sample为一个demo
+#
     dependencies {
            compile project(':library')
     }
